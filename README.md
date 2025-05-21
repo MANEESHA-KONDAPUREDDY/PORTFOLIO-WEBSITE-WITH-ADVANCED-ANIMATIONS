@@ -29,4 +29,8 @@ A modern, responsive portfolio website showcasing Kondapureddy Maneesha's web de
 - **Animation:** GSAP (GreenSock Animation Platform)  
 - **Icons:** Font Awesome  
 - **Fonts:** Google Fonts   
-- **Design:** Custom CSS with Flexbox & Grid    
+- **Design:** Custom CSS with Flexbox & Grid
+
+  #OUTPUT:
+  
+  ![Image](https://github.com/user-attachments/assets/efba60b9-1fad-40d8-aea3-49d4cbc14553)  
